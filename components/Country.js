@@ -42,7 +42,7 @@ export default function Country({country, index}) {
                 <Text>({country.alpha3Code}) {country.translations.br}</Text>
             </Flex>
 
-            <Modal onClose={onClose} isOpen={isOpen} size={["md", "md", "md", "lg", "lg"]} isCentered>
+            <Modal onClose={onClose} isOpen={isOpen} isCentered>
                 <ModalOverlay/>
                 <ModalContent borderRadius="lg">
                     <ModalHeader>{country.translations.br} ({country.alpha2Code}/{country.alpha3Code})</ModalHeader>
