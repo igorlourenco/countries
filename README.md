@@ -1,11 +1,16 @@
-### ⚡ Template Inicial Next.js
+### ⚡ Países
 
-Todo mundo tem aquelas bibliotecas que sempre usa em, todos os projetos, e tooooda vez que cria uma coisa nova, tem que baixar tudo de novo. Criei esse template de projeto Next.js para poupar trabalho e tempo. Apenas clono esse template como um novo projeto, instalo as bibliotecas já baixadas e começo a "codar". 
+Esse é um catálogo de países que fiz consumindo uma API externa, para exercitar o que tô aprendendo no front-end.   
 
-As bibliotecas do template, por enquanto, são essas:
+Aqui está o [link para ver a versão final](https://paises-lemon.vercel.app).7
 
-[Chakra UI](https://chakra-ui.com/): design system bem fácil de usar que instalo em todos os meus projetos. Já tem muita coisa configurada (cores, temas, fontes, breakpoints etc) e ainda tem vários componentes já prontos. Facilita muito.
+As tecnologias/bibliotecas usadas foram:
 
+* [ReactJS](https://pt-br.reactjs.org/): biblioteca de JavaScript utilizada para construir aplicações WEB.
+* [Next.js](http://nextjs.org/): é um framework de [ReactJS](https://pt-br.reactjs.org/) que utilizo para construir meus projetos;
+* [REST Countries](https://restcountries.eu/): foi a API de onde busquei todos os dados sobre os países;
+* [Chakra UI](https://chakra-ui.com/): como design system para construção dos elementos de interface, estilizaçao e componentes;
+* [Framer Motion](https://www.framer.com/motion/): API utilizada para animar componentes (neste projeto, utilizei para fazer efeito ao clicar no componente do país)..
 
 ---
 
