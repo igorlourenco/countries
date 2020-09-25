@@ -1,17 +1,27 @@
-### ⚡ Países
+### ⚡ Countries
 
-Esse é um catálogo de países que fiz consumindo uma API externa, para exercitar o que tô aprendendo no front-end.   
+###### 👾 Available in [countries-igor.vercel.app](https://countries-igor.vercel.app) 
 
-Aqui está o [link para ver a versão final](https://paises-lemon.vercel.app).
-
-As tecnologias/bibliotecas usadas foram:
-
-* [ReactJS](https://pt-br.reactjs.org/): biblioteca de JavaScript utilizada para construir aplicações WEB;
-* [Next.js](http://nextjs.org/): é um framework de [ReactJS](https://pt-br.reactjs.org/) que utilizo para construir meus projetos;
-* [REST Countries](https://restcountries.eu/): foi a API de onde busquei todos os dados sobre os países;
-* [Chakra UI](https://chakra-ui.com/): como design system para construção dos elementos de interface, estilizaçao e componentes;
-* [Framer Motion](https://www.framer.com/motion/): API utilizada para animar componentes (neste projeto, utilizei para fazer efeito ao clicar no componente do país).
+**Catalog of countries and their information, it was very cool, check it out.**
 
 ---
 
-Feito com ❤️ e JavaScript por Igor Lourenço
+##### Techologies used:
+
+* [JavaScript](https://www.javascript.com/): programming language used in the project. The life of web applications;
+* [ReactJS](https://pt-br.reactjs.org/): JavaScript library used to build web applications;
+* [Next.js](http://nextjs.org/): it is a framework from [ReactJS](https://pt-br.reactjs.org/) that I use to build my projects;
+* [Chakra UI](https://chakra-ui.com/): as a design system for building interface elements and styling components;
+* [Framer Motion](https://www.framer.com/motion/): API used to animate interface components.
+
+---
+
+##### Practiced concepts:
+* Data consumption via API;
+* Component reuse;
+* Component props;
+* Component animation.
+
+---
+
+Made With ❤️ & JavaScript by Igor Lourenço
